@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1051667072387-j00d35s3s225tgl3hie2j1328di6i8ic.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1051667072387-j00d35s3s225tgl3hie2j1328di6i8ic</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBY8b3tTyl4-UZysGX5cTmxRMweDVJ2zbs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1051667072387</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tn.radhimighri.FiTRi9i</string>
+	<key>PROJECT_ID</key>
+	<string>fitri9i</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitri9i.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1051667072387:ios:43dbe00e1d786224da62b6</string>
+	<key>DATABASE_URL</key>
+	<string>https://fitri9i.firebaseio.com</string>
+</dict>
+</plist>
